@@ -5,3 +5,6 @@
 <p align="center">
   <img src="https://i.ibb.co/hRqfC3Rx/image.png" alt="LIGHT MD" width="300">
 </p>
+<p align="center">
+  ⚡ A futuristic WhatsApp bot by Nyxcore ⚡
+</p>
