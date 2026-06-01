@@ -8,3 +8,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A1+A+futuristic+WhatsApp+bot+by+Nyx%E2%9A%A1" alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="https://github.com/NYXCORE-X/LIGHT-MD/forks">
+    <img src="https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NYXCORE-X/LIGHT-MD/stargazers">
+    <img src="https://img.shields.io/badge/⭐%20Star%20Repo-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
