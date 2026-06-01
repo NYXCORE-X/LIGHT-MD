@@ -19,3 +19,8 @@
     <img src="https://img.shields.io/badge/⭐%20Star%20Repo-green?style=for-the-badge&logo=github" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/NYXCORE-X/LIGHT-MD/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
+  </a>
+</p>
