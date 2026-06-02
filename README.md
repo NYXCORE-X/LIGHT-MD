@@ -24,3 +24,10 @@
     <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
   </a>
 </p>
+<h2 align="center">🚀 LIGHT MD PAIRING SITES 🚀</h2>
+
+<p align="center">
+  <a href="https://light-md-pairing--tomiwaadeoti994.replit.app/#pair">
+    <img src="https://img.shields.io/badge/1_PAIR_NOW-blueviolet?style=for-the-badge" alt="Pair Now">
+  </a>
+</p>
