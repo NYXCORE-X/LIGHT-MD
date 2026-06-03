@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://i.ibb.co/hRqfC3Rx/image.png" alt="LIGHT MD" width="300">
 </p>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A1+A+futuristic+WhatsApp+bot+by+Nyx%E2%9A%A1" alt="Typing SVG" />
 </p>
@@ -24,6 +26,9 @@
     <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
 <h2 align="center">🚀 LIGHT MD PAIRING SITES 🚀</h2>
 
 <p align="center">
