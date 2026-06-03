@@ -32,7 +32,7 @@
 <h2 align="center">🚀 LIGHT MD PAIRING SITES 🚀</h2>
 
 <p align="center">
-  <a href="https://light-md-pairing--tomiwaadeoti994.replit.app/#pair">
+  <a href="https://nyxcore-x.lovable.app/">
     <img src="https://img.shields.io/badge/1_PAIR_NOW-blueviolet?style=for-the-badge" alt="Pair Now">
   </a>
 </p>
