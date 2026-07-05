@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </a>
 
-<a href="https://bot-hosting.net">
+<a href="https://bot-hosting.net/?aff=NYXCORE">
 <img src="https://img.shields.io/badge/Bot_Hosting-0078FF?style=for-the-badge&logo=server&logoColor=white" />
 </a>
 
