@@ -1,103 +1,111 @@
-<h1 align="center"> LIGHT MD </h1>
+# LIGHT MD
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+PHANTOM)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://i.ibb.co/hRqfC3Rx/image.png" alt="LIGHT MD" width="300">
-</p>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A1+A+futuristic+WhatsApp+bot+by+Nyx%E2%9A%A1" alt="Typing SVG" />
-</p>
-<p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/forks">
-    <img src="https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://i.ibb.co/hRqfC3Rx/image.png" width="260">
 </p>
 
 <p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/stargazers">
-    <img src="https://img.shields.io/badge/⭐%20Star%20Repo-green?style=for-the-badge&logo=github" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
-  </a>
+<strong>⚡ OFFICIAL LIGHT MD REPOSITORY ⚡</strong><br>
+A futuristic WhatsApp bot by Nyx / Phantom.
 </p>
 
 ---
 
-<h2 align="center">⚡ LIGHT MD SERVICES ⚡</h2>
-
-<p align="center">
-  <b>🔗 Pair Your Bot • ☁️ Deploy Anywhere • 🚀 Stay Online 24/7</b>
-</p>
-
----
-
-<h3 align="center">📲 PAIRING SITES</h3>
-
-<p align="center">
-  <a href="https://nyxcore-x.lovable.app/">
-    <img src="https://img.shields.io/badge/⚡_PAIR_1-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/badge/✨_PAIR_2-coming_soon-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">☁️ SITES TO HOST THE BOT</h3>
+## 🌟 Badges
 
 <p align="center">
 
-<a href="https://render.com">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</a>
-
-<a href="https://bot-hosting.net">
-<img src="https://img.shields.io/badge/Bot_Hosting-0078FF?style=for-the-badge&logo=server&logoColor=white" />
-</a>
-
-<a href="https://fly.io">
-<img src="https://img.shields.io/badge/Fly.io-7B61FF?style=for-the-badge&logo=flydotio&logoColor=white" />
-</a>
-
-<a href="https://railway.app">
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-</a>
-
-<a href="https://koyeb.com">
-<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
-</a>
-
-<a href="https://northflank.com">
-<img src="https://img.shields.io/badge/Northflank-00C7B7?style=for-the-badge&logo=server&logoColor=white" />
-</a>
-
-<a href="https://codesandbox.io">
-<img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
-</a>
-
-<a href="https://replit.com">
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
-</a>
+![Stars](https://img.shields.io/github/stars/NYXCORE-X/LIGHT-MD?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/NYXCORE-X/LIGHT-MD?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/NYXCORE-X/LIGHT-MD?style=for-the-badge)
+![License](https://img.shields.io/github/license/NYXCORE-X/LIGHT-MD?style=for-the-badge)
 
 </p>
 
 ---
 
+# ⚡ LIGHT MD SERVICES
+
+## 📲 Pairing
+
+- **Pair 1:** https://nyxcore-x.lovable.app/
+- **Pair 2:** *(add your link later)*
+
+## ☁️ Host LIGHT MD
+
+- Render — https://render.com
+- Bot Hosting — https://bot-hosting.net
+- Fly.io — https://fly.io
+- Railway — https://railway.app
+- Koyeb — https://koyeb.com
+- Northflank — https://northflank.com
+- Replit — https://replit.com
+- CodeSandbox — https://codesandbox.io
+
+---
+
+# 💬 Support
+
+- WhatsApp 1: https://wa.me/2348133504568
+- WhatsApp 2: https://wa.me/2348150613178
+- Telegram: https://t.me/NYXCORE_X
+
+---
+
+# ✨ Features
+
+- AI Chat
+- Downloader
+- Group Management
+- Anti-Link
+- Anti-Bot
+- Auto Status View
+- Games
+- Owner Tools
+- Sticker Tools
+- Media Tools
+- Utilities
+- Plugin System
+
+---
+
+# 📦 Installation
+
+```bash
+git clone https://github.com/NYXCORE-X/LIGHT-MD
+cd LIGHT-MD
+npm install
+npm start
+```
+
+---
+
+# 🚀 Deploy
+
+Deploy on Render, Railway, Fly.io, Koyeb, Northflank or Bot Hosting.
+
+---
+
+# 📊 GitHub Stats
+
+Add your GitHub Readme Stats cards here.
+
+---
+
+# 👥 Contributors
+
+Contributions are welcome.
+
+---
+
+# ❤️ Credits
+
+- Phantom
+- NyxCore
+- All Contributors
+
+---
+
 <p align="center">
-
-⚡ <b>Host LIGHT MD on your favorite cloud platform with ease.</b><br>
-🌌 Fast • Stable • Secure • 24/7 Online
-
-</p>
-  <a href="https://nyxcore-x.lovable.app/">
-    <img src="https://img.shields.io/badge/1_PAIR_NOW-blueviolet?style=for-the-badge" alt="Pair Now">
-  </a>
+Made with ❤️ by LIGHT MD
 </p>
