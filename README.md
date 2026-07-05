@@ -1,7 +1,7 @@
 <h1 align="center"> LIGHT MD </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+PHANTOM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+NYXCORE)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://i.ibb.co/hRqfC3Rx/image.png" alt="LIGHT MD" width="300">
 </p>
@@ -125,6 +125,18 @@ Need help with <b>LIGHT MD</b>? Reach out through any of the support channels be
 <p align="center">
 ⚡ <b>Need assistance?</b><br>
 Our support team is always ready to help with pairing, deployment, hosting, updates, and troubleshooting.
+</p>
+
+---
+
+<p align="center">
+
+Made with ❤️ by **NYXCORE**
+
+LIGHT MD © 2026
+
+⭐ Don't forget to Star the Repository ⭐
+
 </p>
 
 ---
