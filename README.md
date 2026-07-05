@@ -90,7 +90,7 @@
 <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 </a>
 
-<a href="https://katabump.com">
+<a href="https://rl.katabump.fr/ba6cd5">
 <img src="https://img.shields.io/badge/KataBump-FF4D6D?style=for-the-badge&logo=server&logoColor=white" />
 </a>
 
