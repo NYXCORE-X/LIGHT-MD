@@ -29,9 +29,74 @@
 
 ---
 
-<h2 align="center">🚀 LIGHT MD PAIRING SITES 🚀</h2>
+<h2 align="center">⚡ LIGHT MD SERVICES ⚡</h2>
 
 <p align="center">
+  <b>🔗 Pair Your Bot • ☁️ Deploy Anywhere • 🚀 Stay Online 24/7</b>
+</p>
+
+---
+
+<h3 align="center">📲 PAIRING SITES</h3>
+
+<p align="center">
+  <a href="https://nyxcore-x.lovable.app/">
+    <img src="https://img.shields.io/badge/⚡_PAIR_1-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="">
+    <img src="https://img.shields.io/badge/✨_PAIR_2-coming_soon-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">☁️ SITES TO HOST THE BOT</h3>
+
+<p align="center">
+
+<a href="https://render.com">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</a>
+
+<a href="https://bot-hosting.net">
+<img src="https://img.shields.io/badge/Bot_Hosting-0078FF?style=for-the-badge&logo=server&logoColor=white" />
+</a>
+
+<a href="https://fly.io">
+<img src="https://img.shields.io/badge/Fly.io-7B61FF?style=for-the-badge&logo=flydotio&logoColor=white" />
+</a>
+
+<a href="https://railway.app">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</a>
+
+<a href="https://koyeb.com">
+<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
+</a>
+
+<a href="https://northflank.com">
+<img src="https://img.shields.io/badge/Northflank-00C7B7?style=for-the-badge&logo=server&logoColor=white" />
+</a>
+
+<a href="https://codesandbox.io">
+<img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+</a>
+
+<a href="https://replit.com">
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⚡ <b>Host LIGHT MD on your favorite cloud platform with ease.</b><br>
+🌌 Fast • Stable • Secure • 24/7 Online
+
+</p>
   <a href="https://nyxcore-x.lovable.app/">
     <img src="https://img.shields.io/badge/1_PAIR_NOW-blueviolet?style=for-the-badge" alt="Pair Now">
   </a>
