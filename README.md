@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+NYXCORE)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.ibb.co/hRqfC3Rx/image.png" alt="LIGHT MD" width="300">
+  <img src="https://i.ibb.co/d4q5YS1R/Chat-GPT-Image-Jul-6-2026-03-08-18-PM.png" alt="LIGHT MD" width="300">
 </p>
 
 ---
