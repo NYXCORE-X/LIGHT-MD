@@ -125,14 +125,15 @@ Need help with <b>LIGHT MD</b>? Reach out through any of the support channels be
 <img src="https://img.shields.io/badge/✈️_Telegram_Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-</p>
-
 ---
 
 <p align="center">
-Made with ❤️ by **NYXCORE**
+
+Made with ❤️ by <b>NYXCORE</b>
 
 LIGHT MD © 2026
 
 ⭐ Don't forget to Star the Repository ⭐
-</p>
+
+</p></p>
+
