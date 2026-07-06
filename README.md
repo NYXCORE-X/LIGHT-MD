@@ -134,11 +134,3 @@ Made with ❤️ by <b>NYXCORE</b>
 LIGHT MD © 2026
 
 ⭐ Don't forget to Star the Repository ⭐
-
-<p align="center">
-  <img src="https://i.ibb.co/qYgRmhJx/Chat-GPT-Image-Jul-6-2026-02-57-30-PM.png" alt="LIGHT MD Banner" width="100%">
-</p>
-
-<h1 align="center">⚡ LIGHT MD ⚡</h1>
-</p></p>
-
