@@ -47,8 +47,8 @@
     <img src="https://img.shields.io/badge/⚡_PAIR_1-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="">
-    <img src="https://img.shields.io/badge/✨_PAIR_2-coming_soon-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://v0-nxycore.vercel.app/">
+    <img src="https://img.shields.io/badge/✨_PAIR_2-with_qr-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
