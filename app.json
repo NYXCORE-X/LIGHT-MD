@@ -1,0 +1,26 @@
+{
+  "name": "LIGHT MD",
+  "description": "LIGHT MD - WhatsApp Multi-Device Bot powered by Baileys",
+  "repository": "https://github.com/NYXCORE-X/LIGHT-MD",
+  "logo": "",
+  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "light-md"],
+  "stack": "heroku-26",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "LIGHT MD session string. Leave blank to pair by phone number or session ID interactively instead.",
+      "required": false,
+      "value": ""
+    }
+  }
+}

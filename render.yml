@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: light-md
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    autoDeploy: true
+    envVars:
+      - key: SESSION_ID
+        value: ""   # optional — paste your session string here, or leave blank to pair interactively
+      - key: NODE_VERSION
+        value: 20

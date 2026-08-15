@@ -1,0 +1,20 @@
+{
+  "name": "LIGHT MD",
+  "description": "WhatsApp Multi-Device Bot powered by Baileys",
+  "repository": "https://github.com/NYXCORE-X/LIGHT-MD",
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install"
+  },
+  "deploy": {
+    "startCommand": "node index.js",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  },
+  "variables": {
+    "SESSION_ID": {
+      "description": "Optional. LIGHT MD session string — leave unset to pair interactively instead.",
+      "required": false
+    }
+  }
+}
