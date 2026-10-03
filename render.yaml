@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: light-md
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: OWNER_NUMBER
+        sync: false
+      - key: PREFIX
+        sync: false
