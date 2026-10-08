@@ -3,31 +3,43 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+NYXCORE)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.ibb.co/p6CncJxM/Chat-GPT-Image-Jul-6-2026-03-20-57-PM.png" alt="LIGHT MD" width="300">
+<img src="https://i.ibb.co/p6CncJxM/Chat-GPT-Image-Jul-6-2026-03-20-57-PM.png" alt="LIGHT MD" width="300">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A1+A+futuristic+WhatsApp+bot+by+Nyx%E2%9A%A1" alt="Typing SVG" />
+<a href="https://www.npmjs.com/package/@nyxcore/nyxcoresocket">
+<img src="https://img.shields.io/npm/v/%40nyxcore%2Fnyxcoresocket?label=%40nyxcore%2Fnyxcoresocket" alt="NYXCORE Socket npm version" />
+</a>
+<br>
+LIGHT MD uses <a href="https://www.npmjs.com/package/@nyxcore/nyxcoresocket"><code>@nyxcore/nyxcoresocket</code>
+<br>
+Install or update it with <code>npm install @nyxcore/nyxcoresocket</code>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A1+A+futuristic+WhatsApp+bot+by+Nyx%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/forks">
-    <img src="https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://github.com/NYXCORE-X/LIGHT-MD/forks">
+<img src="https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/stargazers">
-    <img src="https://img.shields.io/badge/⭐%20Star%20Repo-green?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://github.com/NYXCORE-X/LIGHT-MD/stargazers">
+<img src="https://img.shields.io/badge/⭐%20Star%20Repo-green?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NYXCORE-X/LIGHT-MD/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://github.com/NYXCORE-X/LIGHT-MD/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20ZIP%20🌌-6A0DAD?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
@@ -35,7 +47,7 @@
 <h2 align="center">⚡ LIGHT MD SERVICES ⚡</h2>
 
 <p align="center">
-  <b>🔗 Pair Your Bot • ☁️ Deploy Anywhere • 🚀 Stay Online 24/7</b>
+<b>🔗 Pair Your Bot • ☁️ Deploy Anywhere • 🚀 Stay Online 24/7</b>
 </p>
 
 ---
@@ -43,13 +55,13 @@
 <h3 align="center">📲 PAIRING SITES</h3>
 
 <p align="center">
-  <a href="https://nyxcore-x.lovable.app/">
-    <img src="https://img.shields.io/badge/⚡_PAIR_1-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href="https://nyxcore-x.lovable.app/">
+<img src="https://img.shields.io/badge/⚡_PAIR_1-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-  <a href="https://v0-nxycore.vercel.app/">
-    <img src="https://img.shields.io/badge/✨_PAIR_2-with_qr-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href="https://v0-nxycore.vercel.app/">
+<img src="https://img.shields.io/badge/✨_PAIR_2-with_qr-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -134,3 +146,15 @@ Made with ❤️ by <b>NYXCORE</b>
 LIGHT MD © 2026
 
 ⭐ Don't forget to Star the Repository ⭐
+
+## Render / Railway deployment
+
+The Render Blueprint (`render.yaml`) uses the Dockerfile, which installs
+Python 3 for `youtube-dl-exec`. Railway uses `nixpacks.toml` to install
+Python 3.11 before `npm install`.
+
+Set `SESSION_ID` to the full session string beginning with `LIGHT-MD:`,
+`OWNER_NUMBER` to country code plus digits (without `+` or spaces), and
+`PREFIX` to the desired command prefix. Set `GITHUB_TOKEN` as a secret only
+if you use the bot's GitHub-backed features. Never commit session values or
+tokens to the repository.
