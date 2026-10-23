@@ -1,6 +1,6 @@
 {
   "name": "light-md",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A simple WhatsApp Multi-Device bot.",
   "main": "index.js",
   "type": "commonjs",
