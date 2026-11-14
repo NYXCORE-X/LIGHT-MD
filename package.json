@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@nyxcore/nyxcorebailey": "^1.0.9",
+    "@nyxcore/nyxcorebtns": "^1.0.0",
     "@nyxcore/nyxcoresocket": "^1.0.2",
     "baileys": "7.0.0-rc14",
     "adm-zip": "^0.5.18",
