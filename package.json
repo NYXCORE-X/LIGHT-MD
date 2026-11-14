@@ -23,7 +23,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@nyxcore/nyxcorebailey": "^1.0.9",
+    "@nyxcore/nyxcorebailey": "^1.0.8",
     "@nyxcore/nyxcoresocket": "^1.0.2",
     "baileys": "7.0.0-rc14",
     "adm-zip": "^0.5.18",
