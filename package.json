@@ -24,11 +24,11 @@
   },
   "dependencies": {
     "@nyxcore/nyxcorebailey": "^1.0.9",
-    "@nyxcore/nyxcorebtns": "^1.0.0",
     "@nyxcore/nyxcoresocket": "^1.0.2",
     "baileys": "7.0.0-rc14",
     "adm-zip": "^0.5.18",
     "axios": "^1.6.8",
+    "qrcode": "^1.5.4",
     "cheerio": "^1.0.0",
     "figlet": "^1.7.0",
     "chalk": "^4.1.2",
