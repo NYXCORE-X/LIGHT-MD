@@ -22,7 +22,8 @@ Other saved versions: assets/banner-canva.png (Canva design) -->
 <a href="#-quick-start">Quick start</a> •
 <a href="#%EF%B8%8F-pairing-sites">Pair</a> •
 <a href="#%EF%B8%8F-deploy-your-bot">Deploy</a> •
-<a href="#-deploy-on-github-codespaces">GitHub tutorial</a> •
+<a href="#-deploy-on-github-codespaces">GitHub</a> •
+<a href="#-deploy-on-termux-android">Termux</a> •
 <a href="#-settings">Settings</a> •
 <a href="#-faq">FAQ</a> •
 <a href="#-support--community">Support</a>
@@ -79,7 +80,7 @@ Other saved versions: assets/banner-canva.png (Canva design) -->
 |---|---|
 | `SESSION_ID` | the full session string from the pairing site (starts with `LIGHT-MD:`) |
 | `OWNER_NUMBER` | your number with country code, digits only (no `+`, no spaces), e.g. `2348012345678` |
-| `PREFIX` | the command prefix, e.g. `.` (or `none` to type commands without one) |
+| `PREFIX` | the command prefix, e.g. `.` (or `none` to type commands without one). On Termux use `BOT_PREFIX` instead |
 
 <p align="center">
 <a href="https://render.com/deploy?repo=https://github.com/NYXCORE-X/LIGHT-MD"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" /></a>
@@ -170,6 +171,60 @@ Watch the terminal for `WhatsApp : connected`. Then send `ping` to your bot from
 - 🛑 To stop: press `Ctrl + C`, then **Stop current codespace** from the Codespaces page so you do not use up your free hours.
 - 🔄 To update: open the fork, tap **Sync fork → Update branch**, then in the codespace run `git pull` and `npm install` and start again.
 - 🔐 Never paste your session or tokens into files or commits. Use Codespaces secrets only.
+
+---
+
+## 📱 Deploy on Termux (Android)
+
+Run LIGHT MD from your own phone. Great for testing and for people with no hosting money. The bot stops when Termux is closed or the phone sleeps, so use a host above for 24/7.
+
+**1. Install Termux**
+Install it from **[F-Droid](https://f-droid.org/packages/com.termux/)** or the [official GitHub releases](https://github.com/termux/termux-app/releases). The Play Store version is outdated and will not work.
+
+**2. Install the tools** (copy each line into Termux)
+```bash
+pkg update -y && pkg upgrade -y
+pkg install -y git nodejs-lts python ffmpeg
+```
+
+**3. Get the bot**
+```bash
+git clone https://github.com/NYXCORE-X/LIGHT-MD
+cd LIGHT-MD
+npm install
+```
+`npm install` can take a few minutes on a phone. Wait for it to finish.
+
+**4. Set your settings**
+```bash
+export SESSION_ID="LIGHT-MD:paste-your-session-here"
+export OWNER_NUMBER="2348012345678"
+export BOT_PREFIX="."
+```
+> ⚠️ In Termux use **`BOT_PREFIX`**, not `PREFIX`. Termux already uses `PREFIX` for its own folder.
+
+**5. Start the bot**
+```bash
+npm start
+```
+Look for `WhatsApp : connected`, then send `ping` to your bot from another number.
+**No session yet?** Skip the `SESSION_ID` line, run `npm start` and follow the pairing steps on the screen.
+
+**6. Keep it running**
+```bash
+pkg install -y tmux
+termux-wake-lock          # stops Android putting Termux to sleep
+tmux new -s bot           # then run: npm start
+```
+Detach with `Ctrl + B`, then `D`. Come back later with `tmux attach -t bot`. In your phone's battery settings, set Termux to **Unrestricted / No battery optimisation**.
+
+**7. Update later**
+```bash
+cd LIGHT-MD && git pull && npm install && npm start
+```
+(or just send `update` to the bot.)
+
+> 🔐 Your session is like a password. Never share it or put it on GitHub.
 
 ---
 
