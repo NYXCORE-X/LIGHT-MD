@@ -142,6 +142,8 @@ Set `SESSION_ID` to the full session string beginning with `LIGHT-MD:`, `OWNER_N
 
 GitHub Codespaces gives you a ready-made online computer straight from your fork. It is great for **testing, pairing and short runs** (a free monthly allowance applies, and a codespace stops after a period of no activity, so use Render, Railway or a panel for a bot that must stay online 24/7).
 
+> 📋 **Tip:** every grey command box has a **copy icon in its top-right corner** (it appears when you hover or tap the box). Tap it, then paste into your terminal.
+
 **1. Fork the repo**
 Open the repo and tap **Fork** (top right) → **Create fork**.
 
@@ -169,7 +171,10 @@ Watch the terminal for `WhatsApp : connected`. Then send `ping` to your bot from
 
 **5. Keep it tidy**
 - 🛑 To stop: press `Ctrl + C`, then **Stop current codespace** from the Codespaces page so you do not use up your free hours.
-- 🔄 To update: open the fork, tap **Sync fork → Update branch**, then in the codespace run `git pull` and `npm install` and start again.
+- 🔄 To update: open the fork, tap **Sync fork → Update branch**, then in the codespace run:
+```bash
+git pull && npm install && npm start
+```
 - 🔐 Never paste your session or tokens into files or commits. Use Codespaces secrets only.
 
 ---
@@ -177,6 +182,8 @@ Watch the terminal for `WhatsApp : connected`. Then send `ping` to your bot from
 ## 📱 Deploy on Termux (Android)
 
 Run LIGHT MD from your own phone. Great for testing and for people with no hosting money. The bot stops when Termux is closed or the phone sleeps, so use a host above for 24/7.
+
+> 📋 **Tip:** every grey command box has a **copy icon in its top-right corner** (it appears when you hover or tap the box). Tap it, then paste into your terminal.
 
 **1. Install Termux**
 Install it from **[F-Droid](https://f-droid.org/packages/com.termux/)** or the [official GitHub releases](https://github.com/termux/termux-app/releases). The Play Store version is outdated and will not work.
