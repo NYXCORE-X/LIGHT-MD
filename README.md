@@ -3,7 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=17F7F1&background=07020100&width=435&lines=OFFICIAL+LIGHT+MD+REPO;WHATSAPP+BOT;MADE+BY+NYXCORE)](https://git.io/typing-svg)
 
 <p align="center">
+<img src="assets/banner.png" alt="LIGHT MD" width="100%">
+<!-- OLD IMAGE (to switch back, replace the line above with this one):
 <img src="https://i.ibb.co/p6CncJxM/Chat-GPT-Image-Jul-6-2026-03-20-57-PM.png" alt="LIGHT MD" width="300">
+Other saved versions: assets/banner-canva.png (Canva design) -->
 </p>
 
 ---
