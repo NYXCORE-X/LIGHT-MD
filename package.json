@@ -1,6 +1,6 @@
 {
   "name": "light-md",
-  "version": "1.2.32",
+  "version": "1.2.33",
   "description": "A simple WhatsApp Multi-Device bot.",
   "main": "index.js",
   "type": "commonjs",
@@ -23,7 +23,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@nyxcore/nyxcorebailey": "^1.5.2",
+    "@nyxcore/nyxcorebailey": "^1.5.3",
     "@nyxcore/nyxcoresocket": "^1.0.2",
     "adm-zip": "^0.5.18",
     "axios": "^1.6.8",
